@@ -1,0 +1,191 @@
+{
+  "version": 1,
+  "words": {
+    "announce": {
+      "word": "announce",
+      "phonetic": "/ә'nauns/",
+      "translation": "vt. 宣布, 声称, 显示, 预告\nvi. 当报幕员, 宣布参加竞选",
+      "date_added": "2026-10-21",
+      "active": true,
+      "review_count": 24,
+      "correct_count": 22,
+      "last_review": "2026-10-21T19:00:33"
+    },
+    "tragedy": {
+      "word": "tragedy",
+      "phonetic": "/'trædʒidi/",
+      "translation": "n. 悲剧, 惨案, 悲剧作品\n[法] 惨事, 灾难, 不辛",
+      "date_added": "2026-10-21",
+      "active": true,
+      "review_count": 21,
+      "correct_count": 20,
+      "last_review": "2026-10-21T19:02:00"
+    },
+    "stricken": {
+      "word": "stricken",
+      "phonetic": "/'strɪk(ə)n/",
+      "translation": "adj. 患病的；受挫折的；受…侵袭的；遭殃的",
+      "date_added": "2026-10-21",
+      "active": true,
+      "review_count": 27,
+      "correct_count": 20,
+      "last_review": "2026-10-21T19:01:57"
+    },
+    "grief": {
+      "word": "grief",
+      "phonetic": "/gri:f/",
+      "translation": "n. 伤心, 忧愁, 悲痛, 不幸, 灾难",
+      "date_added": "2026-10-21",
+      "active": true,
+      "review_count": 27,
+      "correct_count": 20,
+      "last_review": "2026-10-21T19:01:16"
+    },
+    "kitchen": {
+      "word": "kitchen",
+      "phonetic": "/'kitʃin/",
+      "translation": "n. 厨房, 全套炊具\n[医] 厨房",
+      "date_added": "2026-10-21",
+      "active": true,
+      "review_count": 17,
+      "correct_count": 17,
+      "last_review": "2026-10-21T19:01:20"
+    },
+    "blender": {
+      "word": "blender",
+      "phonetic": "/'blendә/",
+      "translation": "n. 混合者, 混合器, 搅拌器\n[化] 掺合机; 捏和机; 混合机; 搅拌机; 搅切器; 捣碎器",
+      "date_added": "2026-10-21",
+      "active": true,
+      "review_count": 17,
+      "correct_count": 17,
+      "last_review": "2026-10-21T19:00:44"
+    },
+    "aroused": {
+      "word": "aroused",
+      "phonetic": "",
+      "translation": "唤醒",
+      "date_added": "2026-10-21",
+      "active": true,
+      "review_count": 23,
+      "correct_count": 17,
+      "last_review": "2026-10-21T19:00:38"
+    },
+    "curiosity": {
+      "word": "curiosity",
+      "phonetic": "/.kjuәri'ɒsiti/",
+      "translation": "n. 好奇心, 新奇的事物, 珍品",
+      "date_added": "2026-10-21",
+      "active": true,
+      "review_count": 18,
+      "correct_count": 17,
+      "last_review": "2026-10-21T19:00:58"
+    },
+    "startled": {
+      "word": "startled",
+      "phonetic": "",
+      "translation": "v. 震惊（startle的过去分词）",
+      "date_added": "2026-10-21",
+      "active": true,
+      "review_count": 17,
+      "correct_count": 17,
+      "last_review": "2026-10-21T19:01:45"
+    },
+    "neighbor": {
+      "word": "neighbor",
+      "phonetic": "/'neibә/",
+      "translation": "n. 邻居\nvt. 邻接\nvi. 毗邻而居, 友好\na. 邻近的",
+      "date_added": "2026-10-21",
+      "active": true,
+      "review_count": 17,
+      "correct_count": 17,
+      "last_review": "2026-10-21T19:01:26"
+    },
+    "revolver": {
+      "word": "revolver",
+      "phonetic": "/ri'vɒlvә/",
+      "translation": "n. 左轮手枪\n[化] 旋转炉",
+      "date_added": "2026-10-21",
+      "active": true,
+      "review_count": 18,
+      "correct_count": 17,
+      "last_review": "2026-10-21T19:01:39"
+    },
+    "retrieve": {
+      "word": "retrieve",
+      "phonetic": "/ri'tri:v/",
+      "translation": "vt. 取回, 挽回, 弥补, 恢复, 补偿, 回忆, 检索\nvi. 找回猎物\nn. 取回, 恢复, 救险球\n[计] 检索",
+      "date_added": "2026-10-21",
+      "active": true,
+      "review_count": 18,
+      "correct_count": 17,
+      "last_review": "2026-10-21T19:01:33"
+    },
+    "closet": {
+      "word": "closet",
+      "phonetic": "/'klɒzit/",
+      "translation": "n. 壁橱, 小室\na. 秘密的, 空谈的\nvt. 把...关入小室",
+      "date_added": "2026-10-21",
+      "active": true,
+      "review_count": 17,
+      "correct_count": 17,
+      "last_review": "2026-10-21T19:00:51"
+    },
+    "astonish": {
+      "word": "astonish",
+      "phonetic": "/ә'stɒniʃ/",
+      "translation": "vt. 使惊讶",
+      "date_added": "2026-10-21",
+      "active": true,
+      "review_count": 17,
+      "correct_count": 17,
+      "last_review": "2026-10-21T19:00:41"
+    },
+    "gleam": {
+      "word": "gleam",
+      "phonetic": "/gli:m/",
+      "translation": "n. 光束, 微光, 反光\nvi. 闪烁, 隐约地闪现\nvt. 使发微光, 使闪烁",
+      "date_added": "2026-10-21",
+      "active": true,
+      "review_count": 18,
+      "correct_count": 17,
+      "last_review": "2026-10-21T19:01:10"
+    },
+    "polish": {
+      "word": "polish",
+      "phonetic": "/'pɒliʃ/",
+      "translation": "a. 波兰的\nn. 波兰人, 上光剂, 光泽, 优雅\nvt. 擦亮, 擦去, 使完美\nvi. 擦亮, 变得光亮",
+      "date_added": "2026-10-21",
+      "active": true,
+      "review_count": 17,
+      "correct_count": 17,
+      "last_review": "2026-10-21T19:01:29"
+    },
+    "errand": {
+      "word": "errand",
+      "phonetic": "/'erәnd/",
+      "translation": "n. 任务, 差使, 使命",
+      "date_added": "2026-10-21",
+      "active": true,
+      "review_count": 20,
+      "correct_count": 17,
+      "last_review": "2026-10-21T19:01:06"
+    },
+    "chores": {
+      "word": "chores",
+      "phonetic": "/t'ʃɔ:z/",
+      "translation": "n. chore的复数; 零星工作（尤指家常杂务）( chore的复数形式 ); 零活儿",
+      "date_added": "2026-10-21",
+      "active": true,
+      "review_count": 16,
+      "correct_count": 16,
+      "last_review": "2026-10-21T19:00:47"
+    }
+  },
+  "stats": {
+    "2026-10-21": {
+      "reviewed": 36,
+      "correct": 36
+    }
+  }
+}
